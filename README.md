@@ -1,6 +1,6 @@
 - 👋 Hi, I’m khaled-sliman
 
-- I,m a computer science student and Data sciences specialist
+- I,m a computer science student and Data science specialist
 
 - I’m interested in data analysis, data sciences and programming.
 
