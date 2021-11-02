@@ -1,4 +1,4 @@
-- 👋 Hi, I’m khaled-sliman
+- 👋 Hi, I’m khaled sliman
 
 - I,m a computer science student and Data science specialist
 
