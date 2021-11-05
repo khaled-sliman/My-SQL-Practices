@@ -11,4 +11,5 @@ question which was answered :
  8 - Calculate rolling people vaccinated.                  
  9 - Calulate percent of vaccinated people in previous query by using CTE to perform calculation on partition.               
  
- Note : the data was Gathered from 'ourworldindata' website and that's the link : https://ourworldindata.org/covid-deaths. 
+ Note : the data was Gathered from 'ourworldindata' website and that's the link : https://ourworldindata.org/covid-deaths       
+         and the source of data is in the two excel files above.
