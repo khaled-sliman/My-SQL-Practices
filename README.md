@@ -4,7 +4,7 @@
 
 - I’m interested in data analysis, data sciences and programming.
 
-- I love numbers and statistics and love to know details and find commom patterns between them.
+- I love numbers and statistics and love to know details and find common patterns between them.
 
 - I’m currently learning Tableau and other data analyst tools and hope to be pioneer in this field.
 
