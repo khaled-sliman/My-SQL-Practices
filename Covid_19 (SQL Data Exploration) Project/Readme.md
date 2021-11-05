@@ -1,4 +1,4 @@
-This is covid data exploration project which answer some questions about covid by using sql.
+This is a covid data exploration project which answer some questions about covid by using sql.
 
 question which was answered :
  1 - What is death percent per injured cases ?
