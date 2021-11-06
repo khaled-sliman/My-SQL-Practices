@@ -1,7 +1,7 @@
-This is a housing data cleaning project which do some operations on data using sql so that we can use it easy and efficiency.
+This is a housing data cleaning project which do some operations on data using SQL so that we can use it easy and efficiency.
 
-Some opeartions that i will do :
- 1 - Standardize Date Format (convert the format of Saledate from datetime to date).          
+Some operations that I will do :
+ 1 - Standardize Date Format (convert the format of "Saledate" from datetime to date).          
  2 - Populate Property Address data (replace null values in the 'PropertyAddress' column by the right address).           
  3 - Breaking out PropertyAddress into Individual Columns (Address, City, State).        
  4 - Breaking out OwnerAddress into Individual Columns (Address, City, State).         
